@@ -145,7 +145,7 @@ include 'navbar.php';
                     <h4 class="text-dark mb-3">Valor total R$40,00</h4>
                     <a href="..\includes\index.php" class="btn btn-outline-success btn-lg">Continuar Comprando</a>
                     <button class="btn btn-danger btn-lg">
-                        <a href="..\includes\paga.php">Finalizar Compra</a>
+                        <a href="..\includes\paga.php" class=" text-light mb-3 text-decoration-none">Finalizar Compra</a>
                     </button>
                 </div>
             </li>
